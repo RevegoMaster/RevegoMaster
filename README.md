@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, IoT, and electronics projects.  
 - 🌱 I’m currently learning C/C++, Python, and advanced microcontroller programming.  
 - 💞️ I’m looking to collaborate on embedded systems, IoT solutions, and innovative hardware designs.  
-- 📫 How to reach me: hakancelik@revego.com.tr  
+- 📫 How to reach me: hakancelikucge@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy combining technology with everyday objects to create unique, futuristic solutions!  
 
